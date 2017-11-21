@@ -1,0 +1,133 @@
+h3,h5{
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: dimgray;
+}
+
+body {
+	background-color: #B7B5B580;
+
+}
+
+.profile{
+	border-radius: 60%;
+	border-color: #000001;
+	width: 100px;
+	height: 100px;
+}
+
+.box{
+	width: 550px;
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+}
+
+h1 {
+	color: #F2433C;
+}
+
+.first-box{
+	background-color: white;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+.second-box {
+	margin-top: 20px;
+	background-color: white;
+	border-radius: 3px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	line-height: 20px;
+
+}
+
+.wiki {
+	box-sizing: padding-box;
+	padding: 9px;
+	background-color: #F2433C;
+	border-radius: 2px;
+}
+
+.first-box a {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+li {
+	list-style: none;
+}
+
+ul {
+	display: flex; 
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.second-box a {
+	color: #B6ACA9;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.first-box p {
+	text-align: justify;
+}
+
+.third-box h3 {
+	color: #666666;
+	font-weight: normal;
+}
+
+.third-box{
+	background-color: white;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 20px;
+	border-radius: 3px;
+}
+
+.Odyssey{
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.description{
+	display: flex;
+	flex-direction: column;
+}
+
+.hulot {
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.alien{
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.third-box p{
+	text-align: justify;
+	margin-left: 30px;
+	text-align: bottom;
+}
+
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+ 
+ }
