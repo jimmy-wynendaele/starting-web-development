@@ -16,6 +16,7 @@ body {
 .profile{
 	border-radius: 60%;
 	border-color: #000001;
+	border: solid #B7B5B580 5px ;
 	width: 100px;
 	height: 100px;
 }
